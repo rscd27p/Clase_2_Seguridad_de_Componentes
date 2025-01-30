@@ -67,6 +67,7 @@ def main():
 
     almacen_de_usuarios.validar_usuario_y_contrasena("Rscd27","Ab1!valida")
     almacen_de_usuarios.validar_usuario_y_contrasena("Johnñ2","Ab1!valida")
+    almacen_de_usuarios.validar_usuario_y_contrasena("Ryan15","Ab1!valida")
 
     almacen_de_usuarios.mostrar_base_de_datos()
 
